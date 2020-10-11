@@ -1,0 +1,87 @@
+Chapter 7 Conclusion
+				       Evaluation
+
+1. Evaluation against Aims and Objectives
+
+Aim and Objectives
+
+Aim
+Shine car repairing company is established by U Mg Sein in 1998.This company is located in Yangon. Inception, this company was launched from workshop before company. Today, customer can ordered parts even overseas in Shine Group. Beside, Shine Group is very popular in car repairing company and workshop.
+
+Supplier: Detail process for the supplier 
+Competitor: Detail information between company and competitor.
+Staff: Detail information about the staff
+Process: Detail process the company
+-To solve the issues
+-More customers
+-Market share
+
+Objective
+-To solve the issues: to be more functions more additional, to be more functional and more additional. First we will add and modified some function. First we convert the manual to computerized system. So we can be save the data and information thus can be protecting loosing book.  When changing the computerized we need to be many steps.
+-More customer/Market share: create website, discount
+Store and part ordering: They use the paper in keep their information and store besides the way of part ordering list .The paper can be lose and ruin so the information also can be. And waste the time. If the staff makes mistake that can be big trouble.
+Payment and Completion: They record the information (in and out) in payment list with the paper. And they also use the voucher. Also can be big trouble when the staffs make mistake.
+
+2. Evaluation against Similar System Comparison
+•	Functional
+Phillips Auto Repair	HTS Myanmar Co.,Ltd.	Car Repairing System(My project)
+Click to next pages	Search 
+Forward and backward in one page	Click to next pages 
+Search 
+Forward and backward in one page
+Pre Calculate
+
+
+•	Non-functional
+Philips Auto Repair
+-Record Mechanic Repair 
+-Record Company Information
+-Record repair product
+
+HTS Myanmar Co. Ltd
+-Record Item
+-Record Company Information
+-News (Updates)
+-Record service
+-Record car parts
+ 
+
+3. Evaluation against Justifications Made
+Language
+
+PHP also has very good online documentation with a good framework of features. This makes the language relatively easy to learn and very well supported online. There are countless forums and tutorials on various PHP methods and problems, so it is usually very easy to find help when you need it.
+
+
+Problem Encountered
+	There are many problems during the using of PHP language. Such as undefined variable index, parse errors and syntax errors, etc.
+
+Lessons Learnt
+	After using PHP language, knowledge gain such as how to create login page, logout page, product entry, product update and delete and how to make check out page. And also know how to fix the error such as syntax error, parse error and so on.
+
+
+Database
+
+Basically, Mysql DB is used in small and medium sized web software for database management. Mysql is easily available and free open source database management system. The features and security in Mysql is ideal compared to other database systems.
+
+Problem Encountered
+	At first, there is many problem in using database. Even difficult to create tables, rolls and columns. The real problem is don’t know how delete the table from database. But it was easy after using friendly with database.
+
+ Lessons Learnt
+	One of the needed is a huge amount of cost. When using SQL Server instead of an alternative relational database management system is that the licensing options are quite expensive. For small businesses and individuals running for profit sites, this is prohibitive.
+
+Methodology 
+Agile is a time slot, iterative approach to software delivery, creating software gradually of the project workers, instead of trying to deliver it both in the end.
+
+Problem Encountered
+As the first project does not have a definite plan, the final product may be more different than initially thought.
+
+Lesson learnt
+	After done this project, I know the important of user’s involvement, and project team member. Important of stakeholders collaboration, how iteration is work and good points changing.  
+
+
+Future Amendments
+Program
+ After this program, this program is still as a web site and web pages and then to expand mobile phone application which is both Android and IOS. At this program, is still local. In future, expand to global (worldwide).
+Design
+In this program, web design is normal because the project time frame is too short. Therefore, we will do to perfect design (movement design action, background action, banner design and etc,) .Beside, the company will expand the mobile application,  
+Report
